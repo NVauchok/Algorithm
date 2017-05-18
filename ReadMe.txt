@@ -1,4 +1,5 @@
-﻿Test commit3
+﻿2develop rebase
+Test commit3
 
 2.	Решить алгоритмическую задачу :
 •	Find the second by length string in a list or array(Найти вторую по длинне строку в списке)
