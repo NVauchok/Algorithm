@@ -1,4 +1,5 @@
-﻿2develop rebase
+﻿cherry-pick develop 2
+2develop rebase
 Test commit3
 
 2.	Решить алгоритмическую задачу :
